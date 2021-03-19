@@ -1,2 +1,2 @@
 # Oilfield_prod_dashboard
-Oilfield production dashboard with Plotly and Dash
+Oil field production dashboard using Dash and Plotly. Can be accessed also remotely from: https://oilfield-prod-dashboard.herokuapp.com/
